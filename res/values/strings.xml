@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoadImage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="client_id">299b538b485246ab9d60029577a7d5cf</string>
+    <string name="client_secret">de6c2fd4396a4ccf913c01362b2b50a2</string>
+    
+    
+    
+
+</resources>
